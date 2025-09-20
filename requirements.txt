@@ -1,0 +1,1 @@
+streamlit pymupdf docx2txt langchain openai faiss-cpu fuzzywuzzy scikit-learn
